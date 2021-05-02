@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: b819a66ddfcdb8b419e782fc3fc814b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: anime boy hair
+    100002: //RootNode
+    100004: Camera
+    100006: chest
+    100008: Empty
+    100010: eye001.000
+    100012: eye001.001
+    100014: f_index.01.L
+    100016: f_index.01.R
+    100018: f_index.02.L
+    100020: f_index.02.R
+    100022: f_index.03.L
+    100024: f_index.03.L_end
+    100026: f_index.03.R
+    100028: f_index.03.R_end
+    100030: f_middle.01.L
+    100032: f_middle.01.R
+    100034: f_middle.02.L
+    100036: f_middle.02.R
+    100038: f_middle.03.L
+    100040: f_middle.03.L_end
+    100042: f_middle.03.R
+    100044: f_middle.03.R_end
+    100046: f_pinky.01.L
+    100048: f_pinky.01.R
+    100050: f_pinky.02.L
+    100052: f_pinky.02.R
+    100054: f_pinky.03.L
+    100056: f_pinky.03.L_end
+    100058: f_pinky.03.R
+    100060: f_pinky.03.R_end
+    100062: f_ring.01.L
+    100064: f_ring.01.R
+    100066: f_ring.02.L
+    100068: f_ring.02.R
+    100070: f_ring.03.L
+    100072: f_ring.03.L_end
+    100074: f_ring.03.R
+    100076: f_ring.03.R_end
+    100078: foot.L
+    100080: foot.R
+    100082: forearm.L
+    100084: forearm.R
+    100086: half pant
+    100088: hand.L
+    100090: hand.R
+    100092: head
+    100094: head_end
+    100096: hips
+    100098: inner pant
+    100100: inner wear
+    100102: jacket
+    100104: knee pad
+    100106: metarig
+    100108: neck
+    100110: palm.01.L
+    100112: palm.01.R
+    100114: palm.02.L
+    100116: palm.02.R
+    100118: palm.03.L
+    100120: palm.03.R
+    100122: palm.04.L
+    100124: palm.04.R
+    100126: Plane
+    100128: Plane.001
+    100130: Plane.002
+    100132: shin.L
+    100134: shin.R
+    100136: shoe
+    100138: shoulder.L
+    100140: shoulder.R
+    100142: spine
+    100144: teeth
+    100146: thigh.L
+    100148: thigh.R
+    100150: thumb.01.L
+    100152: thumb.01.R
+    100154: thumb.02.L
+    100156: thumb.02.R
+    100158: thumb.03.L
+    100160: thumb.03.L_end
+    100162: thumb.03.R
+    100164: thumb.03.R_end
+    100166: toe.L
+    100168: toe.L_end
+    100170: toe.R
+    100172: toe.R_end
+    100174: tongue
+    100176: upper_arm.L
+    100178: upper_arm.R
+    400000: anime boy hair
+    400002: //RootNode
+    400004: Camera
+    400006: chest
+    400008: Empty
+    400010: eye001.000
+    400012: eye001.001
+    400014: f_index.01.L
+    400016: f_index.01.R
+    400018: f_index.02.L
+    400020: f_index.02.R
+    400022: f_index.03.L
+    400024: f_index.03.L_end
+    400026: f_index.03.R
+    400028: f_index.03.R_end
+    400030: f_middle.01.L
+    400032: f_middle.01.R
+    400034: f_middle.02.L
+    400036: f_middle.02.R
+    400038: f_middle.03.L
+    400040: f_middle.03.L_end
+    400042: f_middle.03.R
+    400044: f_middle.03.R_end
+    400046: f_pinky.01.L
+    400048: f_pinky.01.R
+    400050: f_pinky.02.L
+    400052: f_pinky.02.R
+    400054: f_pinky.03.L
+    400056: f_pinky.03.L_end
+    400058: f_pinky.03.R
+    400060: f_pinky.03.R_end
+    400062: f_ring.01.L
+    400064: f_ring.01.R
+    400066: f_ring.02.L
+    400068: f_ring.02.R
+    400070: f_ring.03.L
+    400072: f_ring.03.L_end
+    400074: f_ring.03.R
+    400076: f_ring.03.R_end
+    400078: foot.L
+    400080: foot.R
+    400082: forearm.L
+    400084: forearm.R
+    400086: half pant
+    400088: hand.L
+    400090: hand.R
+    400092: head
+    400094: head_end
+    400096: hips
+    400098: inner pant
+    400100: inner wear
+    400102: jacket
+    400104: knee pad
+    400106: metarig
+    400108: neck
+    400110: palm.01.L
+    400112: palm.01.R
+    400114: palm.02.L
+    400116: palm.02.R
+    400118: palm.03.L
+    400120: palm.03.R
+    400122: palm.04.L
+    400124: palm.04.R
+    400126: Plane
+    400128: Plane.001
+    400130: Plane.002
+    400132: shin.L
+    400134: shin.R
+    400136: shoe
+    400138: shoulder.L
+    400140: shoulder.R
+    400142: spine
+    400144: teeth
+    400146: thigh.L
+    400148: thigh.R
+    400150: thumb.01.L
+    400152: thumb.01.R
+    400154: thumb.02.L
+    400156: thumb.02.R
+    400158: thumb.03.L
+    400160: thumb.03.L_end
+    400162: thumb.03.R
+    400164: thumb.03.R_end
+    400166: toe.L
+    400168: toe.L_end
+    400170: toe.R
+    400172: toe.R_end
+    400174: tongue
+    400176: upper_arm.L
+    400178: upper_arm.R
+    2000000: Camera
+    2100000: Material.015
+    2100002: Material.014
+    2100004: eye001
+    2100006: Material.008
+    2100008: Material.016
+    2100010: Material.006
+    2100012: Material.009
+    2100014: Material.010
+    2100016: Material.005
+    2100018: Material.001
+    2100020: lip
+    2100022: Material.012
+    2100024: Material.002
+    2100026: No Name
+    2300000: anime boy hair
+    2300002: eye001.000
+    2300004: eye001.001
+    2300006: half pant
+    2300008: inner pant
+    2300010: inner wear
+    2300012: jacket
+    2300014: knee pad
+    2300016: Plane
+    2300018: Plane.001
+    2300020: Plane.002
+    2300022: shoe
+    2300024: teeth
+    2300026: tongue
+    3300000: anime boy hair
+    3300002: eye001.000
+    3300004: eye001.001
+    3300006: half pant
+    3300008: inner pant
+    3300010: inner wear
+    3300012: jacket
+    3300014: knee pad
+    3300016: Plane
+    3300018: Plane.001
+    3300020: Plane.002
+    3300022: shoe
+    3300024: teeth
+    3300026: tongue
+    4300000: Plane.002
+    4300002: Plane.001
+    4300004: Plane
+    4300006: eye001.000
+    4300008: eye001.001
+    4300010: half pant
+    4300012: inner pant
+    4300014: inner wear
+    4300016: jacket
+    4300018: knee pad
+    4300020: shoe
+    4300022: anime boy hair
+    4300024: teeth
+    4300026: tongue
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
